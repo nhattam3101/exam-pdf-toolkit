@@ -1,0 +1,6 @@
+.venv/
+tools/
+session/
+output/
+__pycache__/
+*.cookie.json
